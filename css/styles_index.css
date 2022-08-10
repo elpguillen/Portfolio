@@ -4,9 +4,10 @@ nav {
     justify-content: space-between;
 }
 
-body {
+html, body {
     margin: 0;
     background-color: black;
+    height: 100%;
 }
 
 p {
@@ -17,13 +18,13 @@ p {
     overflow: hidden;
     background-color: #f1f1f1;
     padding: 20px 10px;
-    height: 7.8vh;
+    height: 5%;
 }
 
 .footer a {
     text-align: center;
-    padding: 12px;
     font-size: 18px;
+    padding: 12px;
     color: black;
 }
 
@@ -37,7 +38,7 @@ p {
     overflow: hidden;
     background-color: #f1f1f1;
     padding: 20px 10px;
-    height: 5vh;
+    height: 5%;
 }
 
 .header a {
@@ -59,7 +60,7 @@ p {
 }*/
 
 .container {
-    height: 70.5vh;
+    height: 73%;
 }
 
 #intro-header {
